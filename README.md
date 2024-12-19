@@ -2,7 +2,7 @@
 
 The code for the mapping of multiple types of water body in the Middle Reaches of the Yangtze River(MRYR).
 
-<img src="SD.png" width="400">
+<img src="SD.png">
 
 Our mapping products could be downloaded from science data bank:https://doi.org/10.57760/sciencedb.12990
 
